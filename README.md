@@ -1,4 +1,4 @@
-##airplane crash analysis
+## airplane crash analysis
 
 ## Overview
 This repository contains the code and documentation for a comprehensive analysis of airplane crashes and fatalities spanning from 1980 to 2023. The analysis is conducted using Power BI for data-driven decision-making in aviation safety.
